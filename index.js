@@ -9,4 +9,5 @@ const run = async () => {
   const page = await browser.newPage()
 }
 
+// use instead of annoymous async
 run()
